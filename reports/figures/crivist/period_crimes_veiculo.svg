@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="184.41"
+   height="81.78800000000001"
+   version="1.1"
+   id="svg120"
+   sodipodi:docname="period_crimes_veiculo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata126">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs124" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview122"
+     showgrid="false"
+     inkscape:zoom="4.1212515"
+     inkscape:cx="92.205002"
+     inkscape:cy="40.894001"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg120" />
+  <g
+     transform="translate(10,5)"
+     id="g118">
+    <g
+       class="axis"
+       transform="translate(0, 46.78800000000001)"
+       fill="none"
+       font-size="10"
+       font-family="sans-serif"
+       text-anchor="middle"
+       id="g84">
+      <path
+         class="domain"
+         stroke="#000"
+         d="M0.5,6V0.5H169.91V6"
+         id="path2" />
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(0.5,0)"
+         id="g10">
+        <line
+           stroke="#000"
+           y2="6"
+           id="line4" />
+        <text
+           fill="#000"
+           y="9"
+           dy="0.71em"
+           id="text6">0</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-46.78800000000001"
+           id="line8" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(18.50318809776833,0)"
+         id="g18">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-46.78800000000001"
+           id="line16" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(36.50637619553666,0)"
+         id="g26">
+        <line
+           stroke="#000"
+           y2="6"
+           id="line20" />
+        <text
+           fill="#000"
+           y="9"
+           dy="0.71em"
+           id="text22">200</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-46.78800000000001"
+           id="line24" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(54.50956429330499,0)"
+         id="g34">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-46.78800000000001"
+           id="line32" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(72.51275239107332,0)"
+         id="g42">
+        <line
+           stroke="#000"
+           y2="6"
+           id="line36" />
+        <text
+           fill="#000"
+           y="9"
+           dy="0.71em"
+           id="text38">400</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-46.78800000000001"
+           id="line40" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(90.51594048884165,0)"
+         id="g50">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-46.78800000000001"
+           id="line48" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(108.51912858660998,0)"
+         id="g58">
+        <line
+           stroke="#000"
+           y2="6"
+           id="line52" />
+        <text
+           fill="#000"
+           y="9"
+           dy="0.71em"
+           id="text54">600</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-46.78800000000001"
+           id="line56" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(126.52231668437831,0)"
+         id="g66">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-46.78800000000001"
+           id="line64" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(144.52550478214664,0)"
+         id="g74">
+        <line
+           stroke="#000"
+           y2="6"
+           id="line68" />
+        <text
+           fill="#000"
+           y="9"
+           dy="0.71em"
+           id="text70">800</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-46.78800000000001"
+           id="line72" />
+      </g>
+      <g
+         class="tick"
+         opacity="1"
+         transform="translate(162.52869287991498,0)"
+         id="g82">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-46.78800000000001"
+           id="line80" />
+      </g>
+    </g>
+    <g
+       class="row _0"
+       transform="translate(0,5)"
+       id="g92">
+      <rect
+         width="115.04037194473963"
+         height="5.447000000000003"
+         fill="#C64A3D"
+         transform=""
+         id="rect86" />
+      <text
+         x="10"
+         y="2.7235000000000014"
+         dy="0.35em"
+         class="row _0"
+         transform=""
+         id="text88">Ama</text>
+      <title
+         id="title90">Ama  639</title>
+    </g>
+    <g
+       class="row _1"
+       transform="translate(0,15.447000000000003)"
+       id="g100">
+      <rect
+         width="126.38238044633368"
+         height="5.447000000000003"
+         fill="#C64A3D"
+         transform=""
+         id="rect94" />
+      <text
+         x="10"
+         y="2.7235000000000014"
+         dy="0.35em"
+         class="row _1"
+         transform=""
+         id="text96">Tar</text>
+      <title
+         id="title98">Tar  702</title>
+    </g>
+    <g
+       class="row _2"
+       transform="translate(0,25.894000000000005)"
+       id="g108">
+      <rect
+         width="169.41"
+         height="5.447000000000003"
+         fill="#C64A3D"
+         transform=""
+         id="rect102" />
+      <text
+         x="10"
+         y="2.7235000000000014"
+         dy="0.35em"
+         class="row _2"
+         transform=""
+         id="text104">Noi</text>
+      <title
+         id="title106">Noi  941</title>
+    </g>
+    <g
+       class="row _3"
+       transform="translate(0,36.34100000000001)"
+       id="g116">
+      <rect
+         width="79.7541232731137"
+         height="5.447000000000003"
+         fill="#C64A3D"
+         transform=""
+         id="rect110" />
+      <text
+         x="10"
+         y="2.7235000000000014"
+         dy="0.35em"
+         class="row _3"
+         transform=""
+         id="text112">Mad</text>
+      <title
+         id="title114">Mad  443</title>
+    </g>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 10.5,52.288 V 5.0000018"
+     id="path933"
+     inkscape:connector-curvature="0" />
+</svg>

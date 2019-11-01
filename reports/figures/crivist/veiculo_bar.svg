@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="409.8"
+   height="124.46"
+   version="1.1"
+   id="svg144"
+   sodipodi:docname="veiculo_bar.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata150">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs148" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview146"
+     showgrid="false"
+     inkscape:zoom="1.8545633"
+     inkscape:cx="165.12614"
+     inkscape:cy="38.674342"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg144" />
+  <g
+     style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:none"
+     id="g116"
+     font-size="10"
+     transform="translate(10,99.46)"
+     class="axis">
+    <g
+       style="opacity:1"
+       id="g114"
+       transform="translate(338.7068)"
+       class="tick" />
+  </g>
+  <g
+     id="g997">
+    <path
+       class="domain"
+       d="m 10.5,105.46 v -5.5 h 359.8 v 5.5"
+       id="path2"
+       inkscape:connector-curvature="0"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:none;stroke:#000000" />
+    <g
+       class="tick"
+       transform="translate(10.5,99.46)"
+       id="g10"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line4"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text6"
+         style="fill:#000000">0</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line8" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(36.515907,99.46)"
+       id="g18"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line16" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(62.531815,99.46)"
+       id="g26"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line20"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text22"
+         style="fill:#000000">400</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line24" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(88.547722,99.46)"
+       id="g34"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line32" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(114.56363,99.46)"
+       id="g42"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line36"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text38"
+         style="fill:#000000">800</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line40" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(140.57954,99.46)"
+       id="g50"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line48" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(166.59544,99.46)"
+       id="g58"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line52"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text54"
+         style="fill:#000000">1,200</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line56" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(192.61135,99.46)"
+       id="g66"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line64" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(218.62726,99.46)"
+       id="g74"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line68"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text70"
+         style="fill:#000000">1,600</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line72" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(244.64317,99.46)"
+       id="g82"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line80" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(270.65907,99.46)"
+       id="g90"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line84"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text86"
+         style="fill:#000000">2,000</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line88" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(296.67498,99.46)"
+       id="g98"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line96" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(322.69089,99.46)"
+       id="g106"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line100"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text102"
+         style="fill:#000000">2,400</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-89.459999"
+         id="line104" />
+    </g>
+    <line
+       class="grid-line"
+       x1="348.70679"
+       y1="99.459999"
+       x2="348.70679"
+       y2="10.000001"
+       id="line112"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path222"
+       d="M 10.5,99.96 V 10.000001"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none;stroke:#c4c4c4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path224"
+       d="M 62.53182,99.46 V 10.000001"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none;stroke:#c4c4c4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path226"
+       d="M 114.56363,99.46 V 10.000001"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none;stroke:#c4c4c4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path228"
+       d="M 166.59544,99.46 V 10.000001"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none;stroke:#c4c4c4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path230"
+       d="M 218.62726,99.46 V 10.000001"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none;stroke:#c4c4c4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path232"
+       d="M 270.65907,99.46 V 10.000001"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none;stroke:#c4c4c4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path234"
+       d="M 322.69089,99.46 V 10.000001"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none;stroke:#c4c4c4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       class="row _0"
+       transform="translate(10,15)"
+       id="g124">
+      <rect
+         width="359.79999"
+         height="23.153334"
+         class="selected"
+         id="rect118"
+         x="0"
+         y="0"
+         style="fill:#f48964" />
+      <text
+         x="10"
+         y="11.576667"
+         dy="0.34999999em"
+         class="row _0"
+         id="text120">VEICULO</text>
+      <title
+         id="title122">VEICULO  2766</title>
+    </g>
+    <g
+       class="row _1"
+       transform="translate(10,43.153333)"
+       id="g132">
+      <rect
+         width="237.91547"
+         height="23.153334"
+         class="deselected"
+         id="rect126"
+         x="0"
+         y="0"
+         style="fill:#adabab;fill-opacity:1" />
+      <text
+         x="10"
+         y="11.576667"
+         dy="0.34999999em"
+         class="row _1"
+         id="text128">TRANSEUNTE</text>
+      <title
+         id="title130">TRANSEUNTE  1829</title>
+    </g>
+    <g
+       class="row _2"
+       transform="translate(10,71.306667)"
+       id="g140">
+      <rect
+         width="131.38033"
+         height="23.153334"
+         class="deselected"
+         id="rect134"
+         x="0"
+         y="0"
+         style="fill:#adabab;fill-opacity:1" />
+      <text
+         x="10"
+         y="11.576667"
+         dy="0.34999999em"
+         class="row _2"
+         id="text136">ESTABELECIMENTO</text>
+      <title
+         id="title138">ESTABELECIMENTO  1010</title>
+    </g>
+  </g>
+</svg>

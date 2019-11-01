@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="184.41"
+   height="131.572"
+   version="1.1"
+   id="svg152"
+   sodipodi:docname="estabelecimento_day.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata158">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs156" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview154"
+     showgrid="false"
+     inkscape:zoom="3.5873892"
+     inkscape:cx="92.205002"
+     inkscape:cy="65.786003"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg152" />
+  <g
+     transform="translate(10,10)"
+     id="g150">
+    <g
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none"
+       id="g82"
+       transform="translate(142.99439,91.572)"
+       class="tick" />
+  </g>
+  <g
+     id="g1137">
+    <path
+       class="domain"
+       d="m 0.5,97.572 v -5.5 h 169.41 v 5.5"
+       id="path2"
+       inkscape:connector-curvature="0"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:none;stroke:#000000"
+       transform="translate(10,10)" />
+    <g
+       class="tick"
+       transform="translate(10.5,101.572)"
+       id="g10"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line4"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text6"
+         style="fill:#000000">0</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-91.571999"
+         id="line8" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(26.33271,101.572)"
+       id="g18"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-91.571999"
+         id="line16" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(42.165421,101.572)"
+       id="g26"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line20"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text22"
+         style="fill:#000000">40</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-91.571999"
+         id="line24" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(57.998131,101.572)"
+       id="g34"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-91.571999"
+         id="line32" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(73.830841,101.572)"
+       id="g42"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line36"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text38"
+         style="fill:#000000">80</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-91.571999"
+         id="line40" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(89.663551,101.572)"
+       id="g50"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-91.571999"
+         id="line48" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(105.49626,101.572)"
+       id="g58"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line52"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text54"
+         style="fill:#000000">120</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-91.571999"
+         id="line56" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(121.32897,101.572)"
+       id="g66"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-91.571999"
+         id="line64" />
+    </g>
+    <g
+       class="tick"
+       transform="translate(137.16168,101.572)"
+       id="g74"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line68"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text70"
+         style="fill:#000000">160</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-91.571999"
+         id="line72" />
+    </g>
+    <line
+       class="grid-line"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="-91.571999"
+       id="line80"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none"
+       transform="translate(152.99439,101.572)" />
+    <g
+       class="tick"
+       transform="translate(168.8271,101.572)"
+       id="g90"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+      <line
+         y2="6"
+         id="line84"
+         x1="0"
+         y1="0"
+         x2="0"
+         style="stroke:#000000" />
+      <text
+         y="9"
+         dy="0.70999998em"
+         id="text86"
+         style="fill:#000000">200</text>
+      <line
+         class="grid-line"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="-91.571999"
+         id="line88" />
+    </g>
+    <g
+       id="g100"
+       transform="translate(10,15)"
+       class="row _0"
+       style="">
+      <rect
+         id="rect94"
+         transform=""
+         fill="#F3D84A"
+         height="7.367428571428571"
+         width="117.16205607476634" />
+      <text
+         id="text96"
+         transform=""
+         class="row _0"
+         dy="0.35em"
+         y="3.6837142857142857"
+         x="10">Seg</text>
+      <title
+         id="title98">Seg  148</title>
+    </g>
+    <g
+       id="g108"
+       transform="translate(10,27.367429)"
+       class="row _1"
+       style="">
+      <rect
+         id="rect102"
+         transform=""
+         fill="#F3D84A"
+         height="7.367428571428571"
+         width="110.03733644859813" />
+      <text
+         id="text104"
+         transform=""
+         class="row _1"
+         dy="0.35em"
+         y="3.6837142857142857"
+         x="10">Ter</text>
+      <title
+         id="title106">Ter  139</title>
+    </g>
+    <g
+       id="g116"
+       transform="translate(10,39.734857)"
+       class="row _2"
+       style="">
+      <rect
+         id="rect110"
+         transform=""
+         fill="#F3D84A"
+         height="7.367428571428571"
+         width="131.41149532710278" />
+      <text
+         id="text112"
+         transform=""
+         class="row _2"
+         dy="0.35em"
+         y="3.6837142857142857"
+         x="10">Qua</text>
+      <title
+         id="title114">Qua  166</title>
+    </g>
+    <g
+       id="g124"
+       transform="translate(10,52.102286)"
+       class="row _3"
+       style="">
+      <rect
+         id="rect118"
+         transform=""
+         fill="#F3D84A"
+         height="7.367428571428571"
+         width="139.32785046728972" />
+      <text
+         id="text120"
+         transform=""
+         class="row _3"
+         dy="0.35em"
+         y="3.6837142857142857"
+         x="10">Qui</text>
+      <title
+         id="title122">Qui  176</title>
+    </g>
+    <g
+       id="g132"
+       transform="translate(10,64.469714)"
+       class="row _4"
+       style="">
+      <rect
+         id="rect126"
+         transform=""
+         fill="#F3D84A"
+         height="7.367428571428571"
+         width="169.41" />
+      <text
+         id="text128"
+         transform=""
+         class="row _4"
+         dy="0.35em"
+         y="3.6837142857142857"
+         x="10">Sex</text>
+      <title
+         id="title130">Sex  214</title>
+    </g>
+    <g
+       id="g140"
+       transform="translate(10,76.837143)"
+       class="row _5"
+       style="">
+      <rect
+         id="rect134"
+         transform=""
+         fill="#F3D84A"
+         height="7.367428571428571"
+         width="110.03733644859813" />
+      <text
+         id="text136"
+         transform=""
+         class="row _5"
+         dy="0.35em"
+         y="3.6837142857142857"
+         x="10">Sab</text>
+      <title
+         id="title138">Sab  139</title>
+    </g>
+    <g
+       id="g148"
+       transform="translate(10,89.204571)"
+       class="row _6"
+       style="">
+      <rect
+         id="rect142"
+         transform=""
+         fill="#F3D84A"
+         height="7.367428571428571"
+         width="71.24719626168223" />
+      <text
+         id="text144"
+         transform=""
+         class="row _6"
+         dy="0.35em"
+         y="3.6837142857142857"
+         x="10">Dom</text>
+      <title
+         id="title146">Dom  90</title>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path965"
+       d="M 10.5,102.072 V 10.000001"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

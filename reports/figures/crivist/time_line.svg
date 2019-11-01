@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1297.7"
+   height="120"
+   version="1.1"
+   id="svg187"
+   sodipodi:docname="time_line.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata191">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview189"
+     showgrid="false"
+     inkscape:zoom="0.82823638"
+     inkscape:cx="544.09801"
+     inkscape:cy="60"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg187" />
+  <g
+     id="g372">
+    <g
+       class="grid-line horizontal"
+       transform="translate(42,38.776978)"
+       id="g30">
+      <line
+         x1="1"
+         y1="80"
+         x2="1205.7"
+         y2="80"
+         id="line2"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="74.244606"
+         x2="1205.7"
+         y2="74.244606"
+         id="line4"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="68.489212"
+         x2="1205.7"
+         y2="68.489212"
+         id="line6"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="62.733814"
+         x2="1205.7"
+         y2="62.733814"
+         id="line8"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="56.978416"
+         x2="1205.7"
+         y2="56.978416"
+         id="line10"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="51.223022"
+         x2="1205.7"
+         y2="51.223022"
+         id="line12"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="45.467625"
+         x2="1205.7"
+         y2="45.467625"
+         id="line14"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="39.712231"
+         x2="1205.7"
+         y2="39.712231"
+         id="line16"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="33.956833"
+         x2="1205.7"
+         y2="33.956833"
+         id="line18"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="28.201439"
+         x2="1205.7"
+         y2="28.201439"
+         id="line20"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="22.446043"
+         x2="1205.7"
+         y2="22.446043"
+         id="line22"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="16.690647"
+         x2="1205.7"
+         y2="16.690647"
+         id="line24"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="10.935252"
+         x2="1205.7"
+         y2="10.935252"
+         id="line26"
+         style="opacity:0.03200001" />
+      <line
+         x1="1"
+         y1="5.1798563"
+         x2="1205.7"
+         y2="5.1798563"
+         id="line28"
+         style="opacity:0.03200001" />
+    </g>
+    <g
+       class="chart-body"
+       transform="translate(51.055386,-5.3941559)"
+       clip-path="url(http://127.0.0.1:8000/#temporalChartLine-clip)"
+       id="g40">
+      <path
+         class="area"
+         d="m -9.055386,31.509264 17.382981,16.690647 19.216847,-17.841726 18.596948,-0.57554 19.216847,15.539569 18.596944,1.726618 19.216849,-1.726618 19.21684,-14.38849 18.59695,10.359713 19.19102,-2.302159 18.59695,-4.028777 19.21684,-8.633093 19.21685,13.812949 17.38298,-24.748201 19.21685,0.575539 18.59695,6.906475 19.21684,2.877698 18.59695,5.179856 19.21685,10.359713 19.21685,-6.330936 18.59694,16.115108 19.19102,-24.172662 18.59695,28.201439 19.21685,-6.906475 19.21684,-18.992805 18.00288,7.482014 19.21685,-3.453237 18.59695,5.755395 19.21684,9.784173 18.59695,3.453237 19.21685,-20.719424 19.21685,5.755396 18.59694,-0.57554 19.19102,4.604317 18.59695,-16.690648 19.21685,21.294964 19.21684,-12.66187 17.38298,5.179856 19.21685,-14.38849 18.59695,8.057554 19.21685,5.179857 18.59694,9.784172 19.21685,1.151079 19.21685,8.633094 18.59695,-6.906475 19.19101,-2.302158 18.59695,11.510791 19.21685,3.453238 19.21684,-12.661871 17.38299,4.028777 19.21684,-4.604316 18.59695,-1.15108 19.21685,1.15108 18.59702,16.115107 19.21676,1.726619 19.2169,3.453238 18.5969,-14.38849 19.2169,8.057554 18.5711,3.453238 19.2168,1.151079 19.2169,-1.726619 17.383,-0.575539 19.2168,1.726618 v 27.05036 h -19.2168 -17.383 -19.2169 -19.2168 -18.5711 -19.2169 -18.5969 -19.2169 H 989.62664 971.02962 951.81277 933.21582 913.99898 896.61599 877.39915 858.1823 839.58535 820.39434 801.79739 782.58054 763.36369 744.76675 725.5499 706.95295 687.7361 670.35312 651.13628 631.91943 613.32248 594.13146 575.53452 556.31767 537.10082 518.50387 499.28703 480.69008 461.47323 443.47035 424.25351 405.03666 386.43971 367.24869 348.65175 329.4349 310.21805 291.6211 272.40426 253.80731 234.59046 217.20748 197.99063 178.77379 160.17684 140.98582 122.38887 103.17203 83.955181 65.358237 46.14139 27.544442 8.327595 -9.055386 Z"
+         id="path34"
+         inkscape:connector-curvature="0"
+         style="fill:#fbbc55" />
+    </g>
+    <g
+       class="axis x"
+       transform="translate(42,90)"
+       font-size="10"
+       id="g74"
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:none">
+      <path
+         class="domain"
+         d="M 0.5,6 V 0.5 H 1206.2 V 6"
+         id="path42"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000" />
+      <g
+         class="tick"
+         transform="translate(226.11714)"
+         id="g48"
+         style="opacity:1">
+        <line
+           y2="6"
+           id="line44"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text46"
+           style="fill:#000000">01/01/2015</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(452.38002)"
+         id="g54"
+         style="opacity:1">
+        <line
+           y2="6"
+           id="line50"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text52"
+           style="fill:#000000">01/01/2016</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(679.26279)"
+         id="g60"
+         style="opacity:1">
+        <line
+           y2="6"
+           id="line56"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text58"
+           style="fill:#000000">01/01/2017</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(905.52566)"
+         id="g66"
+         style="opacity:1">
+        <line
+           y2="6"
+           id="line62"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text64"
+           style="fill:#000000">01/01/2018</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(1131.7885)"
+         id="g72"
+         style="opacity:1">
+        <line
+           y2="6"
+           id="line68"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text70"
+           style="fill:#000000">01/01/2019</text>
+      </g>
+    </g>
+    <g
+       class="axis y"
+       transform="translate(42,10)"
+       font-size="10"
+       id="g162"
+       style="font-size:10px;font-family:sans-serif;text-anchor:end;fill:none">
+      <path
+         class="domain"
+         d="M -6,80.5 H 0.5 V 0.5 H -6"
+         id="path76"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000" />
+      <g
+         class="tick"
+         transform="translate(0,80.5)"
+         id="g82"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line78"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text80"
+           style="fill:#000000">0</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,74.744604)"
+         id="g88"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line84"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text86"
+           style="fill:#000000">10</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,68.989209)"
+         id="g94"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line90"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text92"
+           style="fill:#000000">20</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,63.233813)"
+         id="g100"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line96"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text98"
+           style="fill:#000000">30</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,57.478417)"
+         id="g106"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line102"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text104"
+           style="fill:#000000">40</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,51.723022)"
+         id="g112"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line108"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text110"
+           style="fill:#000000">50</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,45.967626)"
+         id="g118"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line114"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text116"
+           style="fill:#000000">60</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,40.21223)"
+         id="g124"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line120"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text122"
+           style="fill:#000000">70</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,34.456835)"
+         id="g130"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line126"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text128"
+           style="fill:#000000">80</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,28.701439)"
+         id="g136"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line132"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text134"
+           style="fill:#000000">90</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,22.946043)"
+         id="g142"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line138"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text140"
+           style="fill:#000000">100</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,17.190647)"
+         id="g148"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line144"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text146"
+           style="fill:#000000">110</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,11.435252)"
+         id="g154"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line150"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text152"
+           style="fill:#000000">120</text>
+      </g>
+      <g
+         class="tick"
+         transform="translate(0,5.6798561)"
+         id="g160"
+         style="opacity:1">
+        <line
+           x2="-6"
+           id="line156"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:#000000" />
+        <text
+           x="-9"
+           dy="0.31999999em"
+           id="text158"
+           style="fill:#000000">130</text>
+      </g>
+    </g>
+    <g
+       class="brush"
+       transform="translate(42,10)"
+       pointer-events="all"
+       id="g178"
+       style="fill:none">
+      <rect
+         class="overlay"
+         pointer-events="all"
+         cursor="crosshair"
+         x="0"
+         y="0"
+         width="1205.7"
+         height="80"
+         id="rect166" />
+      <rect
+         class="selection"
+         cursor="move"
+         style="display:none;fill:#777777;fill-opacity:0.3;stroke:#ffffff;shape-rendering:crispEdges"
+         id="rect168"
+         width="0"
+         height="0"
+         x="0"
+         y="0" />
+      <rect
+         class="handle handle--e"
+         cursor="ew-resize"
+         style="display:none"
+         id="rect170"
+         width="0"
+         height="0"
+         x="0"
+         y="0" />
+      <rect
+         class="handle handle--w"
+         cursor="ew-resize"
+         style="display:none"
+         id="rect172"
+         width="0"
+         height="0"
+         x="0"
+         y="0" />
+      <path
+         class="custom-brush-handle"
+         d="m -0.5,26.666667 a 6,6 0 0 0 -6,6 v 14.666666 a 6,6 0 0 0 6,6 z m -2,8 v 10.666666 m -2,-10.666666 v 10.666666"
+         display="none"
+         id="path174"
+         inkscape:connector-curvature="0"
+         style="display:none" />
+      <path
+         class="custom-brush-handle"
+         d="m 0.5,26.666667 a 6,6 0 0 1 6,6 v 14.666666 a 6,6 0 0 1 -6,6 z m 2,8 v 10.666666 m 2,-10.666666 v 10.666666"
+         display="none"
+         id="path176"
+         inkscape:connector-curvature="0"
+         style="display:none" />
+    </g>
+  </g>
+  <defs
+     id="defs185">
+    <clipPath
+       id="temporalChartLine-clip">
+      <rect
+         width="1225.7"
+         height="100"
+         transform="translate(-10, -10)"
+         id="rect182" />
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="490.79999"
+   height="124.46"
+   version="1.1"
+   id="svg232"
+   sodipodi:docname="all_crimes_bar.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata238">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs236" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview234"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="1.3113743"
+     inkscape:cx="299.47819"
+     inkscape:cy="84.518808"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2345" />
+  <g
+     style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:none"
+     id="g116"
+     font-size="10"
+     transform="translate(10,99.46)"
+     class="axis">
+    <g
+       style="opacity:1"
+       id="g114"
+       transform="translate(338.34038)"
+       class="tick" />
+  </g>
+  <g
+     id="g446" />
+  <g
+     id="g2345">
+    <rect
+       style="fill:#f48964"
+       y="16.143839"
+       x="-42.616554"
+       id="rect118"
+       height="1.0328572"
+       width="0.1299386" />
+    <g
+       id="g2569">
+      <text
+         style="font-size:5.33333349px"
+         x="28.050041"
+         y="24.857775"
+         dy="1.8666667"
+         class="row _0"
+         id="text120">CAIXA ELETRÔNICO</text>
+      <rect
+         width="0.2598772"
+         height="1.0328572"
+         id="rect126"
+         x="103.79473"
+         y="23.320534"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px"
+         x="19.143789"
+         y="30.318712"
+         dy="1.8666667"
+         class="row _1"
+         id="text128">CONDOMINIO COMERCIAL</text>
+      <rect
+         width="0.38981581"
+         height="1.0328572"
+         id="rect134"
+         x="103.79473"
+         y="29.35339"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px"
+         x="25.988842"
+         y="34.445171"
+         dy="4.1999998"
+         class="row _2"
+         id="text136">SAIDINHA DE BANCO</text>
+      <rect
+         width="0.90957022"
+         height="1.0328572"
+         id="rect142"
+         x="103.79473"
+         y="35.386246"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px;fill:#ff6600;"
+         x="17.106028"
+         y="39.810791"
+         dy="4.1999998"
+         class="row _3"
+         id="text144">ESTABELECIMENTO ENSINO</text>
+      <g
+         id="g156"
+         transform="translate(103.79473,41.419105)"
+         class="row _4">
+        <rect
+           style="fill:#7164f4;fill-opacity:1;stroke-width:0.4393931"
+           y="0"
+           x="0"
+           id="rect150"
+           height="1.0328572"
+           width="1.5052059" />
+        <text
+           id="text152"
+           class="row _4"
+           dy="4.1999998"
+           y="3.9479432"
+           x="-82.746216"
+           style="font-size:5.33333349px;fill:#ff6600;">INTERIOR ESTABELECIMENTO</text>
+        <title
+           id="title154">INTERIOR ESTABELECIMENTO  60</title>
+      </g>
+      <rect
+         width="8.3160706"
+         height="1.0328572"
+         id="rect158"
+         x="103.79473"
+         y="47.451965"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px"
+         x="23.948477"
+         y="51.495228"
+         dy="4.1999998"
+         class="row _5"
+         id="text160">INTERIOR DE VEICULO</text>
+      <rect
+         width="8.7058868"
+         height="1.0328572"
+         id="rect166"
+         x="103.79473"
+         y="53.484818"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px"
+         x="7.9172273"
+         y="57.146801"
+         dy="4.1999998"
+         class="row _6"
+         id="text168">INTERIOR TRANSPORTE COLETIVO</text>
+      <rect
+         width="9.3555794"
+         height="1.0328572"
+         id="rect174"
+         x="103.79473"
+         y="59.517677"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px"
+         x="41.164623"
+         y="62.798382"
+         dy="4.1999998"
+         class="row _7"
+         id="text176">COLETIVO</text>
+      <rect
+         width="10.135211"
+         height="1.0328572"
+         id="rect182"
+         x="103.79473"
+         y="65.550529"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px;fill:#ff6600;"
+         x="16.085196"
+         y="69.498474"
+         dy="4.1999998"
+         class="row _8"
+         id="text184">ESTABELECIMENTO-OUTROS</text>
+      <path
+         class="domain"
+         d="m 104.29473,107.74768 v -5.5 h 359.8 v 5.5"
+         id="path2"
+         inkscape:connector-curvature="0"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         class="tick"
+         transform="translate(104.29473,101.74768)"
+         id="g10"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           y2="6"
+           id="line4"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text6"
+           style="font-size:8px;fill:#000000">0</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line8" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(130.28245,101.74768)"
+         id="g18"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line16" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(156.27018,101.74768)"
+         id="g26"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           y2="6"
+           id="line20"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text22"
+           style="font-size:8px;fill:#000000">400</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line24" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(182.2579,101.74768)"
+         id="g34"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line32" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(208.24561,101.74768)"
+         id="g42"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           y2="6"
+           id="line36"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text38"
+           style="font-size:8px;fill:#000000">800</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line40" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(234.23334,101.74768)"
+         id="g50"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line48" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(260.22106,101.74768)"
+         id="g58"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           y2="6"
+           id="line52"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text54"
+           style="font-size:8px;fill:#000000">1,200</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line56" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(286.20878,101.74768)"
+         id="g66"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line64" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(312.1965,101.74768)"
+         id="g74"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           y2="6"
+           id="line68"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text70"
+           style="font-size:8px;fill:#000000">1,600</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line72" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(338.18422,101.74768)"
+         id="g82"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line80" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(364.17194,101.74768)"
+         id="g90"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           y2="6"
+           id="line84"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text86"
+           style="font-size:8px;fill:#000000">2,000</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line88" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(390.15966,101.74768)"
+         id="g98"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line96" />
+      </g>
+      <g
+         class="tick"
+         transform="translate(416.14738,101.74768)"
+         id="g106"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           y2="6"
+           id="line100"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+        <text
+           y="9"
+           dy="0.70999998em"
+           id="text102"
+           style="font-size:8px;fill:#000000">2,400</text>
+        <line
+           class="grid-line"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="-89.459999"
+           id="line104" />
+      </g>
+      <line
+         class="grid-line"
+         x1="442.13513"
+         y1="101.74767"
+         x2="442.13513"
+         y2="12.287678"
+         id="line112"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path354"
+         d="M 104.29473,102.24768 V 12.287677"
+         style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none;stroke:#c1c1c1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         class="row _9"
+         transform="translate(103.79473,71.583391)"
+         id="g196">
+        <rect
+           width="17.541712"
+           height="1.0328572"
+           id="rect190"
+           x="0"
+           y="0"
+           style="fill:#7164f4;fill-opacity:1" />
+        <text
+           x="10"
+           y="0.51642859"
+           dy="0.34999999em"
+           class="row _9"
+           id="text192" />
+        <title
+           id="title194">  135</title>
+      </g>
+      <path
+         style="fill:none;stroke:#c1c1c1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 156.27018,101.74768 V 12.287677"
+         id="path1253"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#c1c1c1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 208.24561,101.74768 V 12.287677"
+         id="path1255"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#c1c1c1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 260.22106,101.74768 V 12.287677"
+         id="path1257"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#c1c1c1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 312.1965,101.74768 V 12.287677"
+         id="path1259"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#c1c1c1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 364.17194,101.74768 V 12.287677"
+         id="path1261"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#c1c1c1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 416.14738,101.74768 V 12.287677"
+         id="path1263"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="464.58896"
+         y="97.770424"
+         id="text1267"><tspan
+           sodipodi:role="line"
+           id="tspan1265"
+           x="464.58896"
+           y="97.770424"
+           style="font-size:5.33333349px">2766</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="343.16476"
+         y="92.195175"
+         id="text1267-4"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2"
+           x="343.16476"
+           y="92.195175"
+           style="font-size:5.33333349px">1829</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="228.50397"
+         y="86.380661"
+         id="text1267-4-9"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-7"
+           x="228.50397"
+           y="86.380661"
+           style="font-size:5.33333349px">950</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="153.67789"
+         y="80.470833"
+         id="text1267-4-90"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-1"
+           x="153.67789"
+           y="80.470833"
+           style="font-size:5.33333349px">370</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="123.07962"
+         y="73.798439"
+         id="text1267-4-90-3"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-1-0"
+           x="123.07962"
+           y="73.798439"
+           style="font-size:5.33333349px">78</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="115.52259"
+         y="67.888611"
+         id="text1267-4-90-3-2"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-1-0-8"
+           x="115.52259"
+           y="67.888611"
+           style="font-size:5.33333349px">72</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="115.6394"
+         y="61.846973"
+         id="text1267-4-90-3-2-5"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-1-0-8-6"
+           x="115.6394"
+           y="61.846973"
+           style="font-size:5.33333349px">67</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="115.56947"
+         y="56.158417"
+         id="text1267-4-90-3-2-5-3"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-1-0-8-6-5"
+           x="115.56947"
+           y="56.158417"
+           style="font-size:5.33333349px">64</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="115.70151"
+         y="49.962624"
+         id="text1267-4-90-3-2-5-3-4"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-1-0-8-6-5-3"
+           x="115.70151"
+           y="49.962624"
+           style="font-size:5.33333349px">60</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="106.90707"
+         y="43.866058"
+         id="text1267-4-90-3-2-5-3-4-1"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-1-0-8-6-5-3-6"
+           x="106.90707"
+           y="43.866058"
+           style="font-size:5.33333349px">7</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="107.0024"
+         y="32.046398"
+         id="text1267-4-90-3-2-5-3-4-1-0"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-1-0-8-6-5-3-6-6"
+           x="107.0024"
+           y="32.046398"
+           style="font-size:5.33333349px">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="107.02017"
+         y="38.114052"
+         id="text1267-4-90-3-2-5-3-4-1-0-3"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-1-0-8-6-5-3-6-6-3"
+           x="107.02017"
+           y="38.114052"
+           style="font-size:5.33333349px">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.33333349px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="106.81176"
+         y="25.945925"
+         id="text1267-4-90-3-2-5-3-4-1-5"><tspan
+           sodipodi:role="line"
+           id="tspan1265-2-1-0-8-6-5-3-6-8"
+           x="106.81176"
+           y="25.945925"
+           style="font-size:5.33333349px">1</tspan></text>
+      <rect
+         width="48.207222"
+         height="1.0328572"
+         id="rect198"
+         x="103.60409"
+         y="78.188164"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px"
+         x="43.523998"
+         y="75.845001"
+         dy="4.1999998"
+         class="row _10"
+         id="text200">OUTROS</text>
+      <rect
+         width="123.44167"
+         height="1.0328572"
+         id="rect206"
+         x="103.79473"
+         y="83.649109"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px;fill:#ff6600;"
+         x="11.626863"
+         y="81.782539"
+         dy="4.1999998"
+         class="row _11"
+         id="text208">ESTABELECIMENTO COMERCIAL</text>
+      <rect
+         width="237.65771"
+         height="1.0328572"
+         id="rect214"
+         x="103.79473"
+         y="89.681961"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px;fill:#008000;"
+         x="37.034416"
+         y="87.910713"
+         dy="4.1999998"
+         class="row _12"
+         id="text216">TRANSEUNTE</text>
+      <rect
+         width="359.79999"
+         height="1.0328572"
+         id="rect222"
+         x="103.79473"
+         y="95.714813"
+         style="fill:#7164f4;fill-opacity:1" />
+      <text
+         style="font-size:5.33333349px;fill:#000080;"
+         x="43.098217"
+         y="94.22953"
+         dy="4.1999998"
+         class="row _13"
+         id="text224">VEICULO</text>
+    </g>
+  </g>
+</svg>
